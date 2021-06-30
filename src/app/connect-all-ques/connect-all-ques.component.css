@@ -1,0 +1,56 @@
+.logo-display {
+	padding: 0;
+    margin: -30px 0;
+    height: 85px;
+    /* height: 200px; */
+    width: 200px;
+}
+
+#intro .intro-info h3 {
+  color: #fff;
+  margin-bottom: 40px;
+  font-size: 36px;
+  font-weight: 700;
+}
+
+#intro .intro-info h3 span {
+  color: #74b5fc;
+  text-decoration: underline;
+}
+
+.title-access {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.title-infra {
+    font-weight: 600;
+    font-size: 16px;
+}
+
+.select-opt{
+	font-size: 14px;
+	font-family: 'Open Sans';
+}
+
+.header-details{
+	font-weight: 600;
+	color:  #0088ff;
+	font-size: 30px;
+}
+
+.ca-adv{
+	font-weight: 600;
+	font-size: 50px;
+}
+
+.save-qa-resp{
+	background-color: #3667bf;
+    border-radius: 50px;
+    color:  white;
+    padding: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 500px;
+    cursor: pointer;
+}
